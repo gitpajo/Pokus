@@ -2,6 +2,8 @@ Pokus
 =====
 
 [![Build Status](https://travis-ci.org/JakubMrozek/Zdrojak.png)](https://travis-ci.org/JakubMrozek/Zdrojak)
+
+Travis
 Popis
 
 Popis 2
