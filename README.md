@@ -15,3 +15,5 @@ Popis4
 Popis5
 
 Popis6
+
+Oprava hotfixu
