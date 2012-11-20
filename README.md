@@ -19,3 +19,5 @@ Popis6
 Oprava hotfixu
 
 Oprava hotfixu2
+
+dalsi chybka
