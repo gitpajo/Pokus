@@ -1,2 +1,3 @@
 ukazka1
 ukazka2
+ukazka3
