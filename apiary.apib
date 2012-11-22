@@ -17,6 +17,13 @@ GET /shopping-cart
   { "url": "/shopping-cart/1", "product":"2ZY48XPZ", "quantity": 1, "name": "New socks", "price": 1.25 }
 ] }
 
+GET /shop-list
+< 200
+< Content-Type: text/xml
+<items>
+  <product>2ZY48XPZ</product><quantity>1</quantity><name>New socks</name><price>1.25</price>
+</items>
+
 Save new products in your shopping cart
 POST /shopping-cart
 > Content-Type: application/json
