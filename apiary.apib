@@ -1,4 +1,4 @@
-HOST: http://gitpajo.github.com/Pokuss
+HOST: http://gitpajo.github.com/
 
 --- Moje nove API v2 ---
 ---
@@ -18,11 +18,19 @@ GET /shopping-cart
 ] }
 
 List products added into your shop-list
-GET /shop-list
+GET /Pokus/shop-list
 < 200
 < Content-Type: text/xml
 <items>
   <product>2ZY48XPZ</product><quantity>1</quantity><name>New socks</name><price>1.25</price>
+</items>
+
+List products added into your shop-list
+GET /Pokus/shop
+< 200
+< Content-Type: text/xml
+<items>
+  <product>Pokus2ZY48XPZ</product><quantity>1</quantity><name>New socks</name><price>1.25</price>
 </items>
 
 Save new products in your shopping cart
