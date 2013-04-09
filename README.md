@@ -1,7 +1,7 @@
 Pokus
 =====
 
-[![Build Status](https://travis-ci.org/JakubMrozek/Zdrojak.png)](https://travis-ci.org/JakubMrozek/Zdrojak)
+[![Build Status](https://travis-ci.org/gitpajo/Pokus.png)](https://travis-ci.org/gitpajo/Pokus)
 
 Travis
 Popis
