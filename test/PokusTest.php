@@ -46,7 +46,7 @@ class PokusTest extends PHPUnit_Framework_TestCase {
    * @covers Servery::jeSub
    * @todo Implement testJeSub().
    */
-  public function displayVar() {
+  public function testDisplayVar() {
     $this->assertEquals($this->object->displayVar(), "ppp");
   }
 
