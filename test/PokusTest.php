@@ -9,7 +9,7 @@ class Pokus
 
     // method declaration
     public function displayVar() {
-        echo $this->var;
+        return $this->var;
     }
 }
 
