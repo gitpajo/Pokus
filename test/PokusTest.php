@@ -5,7 +5,7 @@
 class Pokus
 {
     // property declaration
-    public $var = 'pppp';
+    public $var = 'ppp';
 
     // method declaration
     public function displayVar() {
