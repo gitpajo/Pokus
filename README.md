@@ -5,4 +5,4 @@ Popis
 
 Stránky k projektu
 
-Upraveno v NB
+Upraveno v NB html
