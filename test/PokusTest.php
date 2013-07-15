@@ -5,7 +5,7 @@
 class Pokus
 {
     // property declaration
-    public $var = 'ppp';
+    public $var = 'pppp';
 
     // method declaration
     public function displayVar() {
@@ -47,7 +47,7 @@ class PokusTest extends PHPUnit_Framework_TestCase {
    * @todo Implement testJeSub().
    */
   public function testDisplayVar() {
-    $this->assertEquals($this->object->displayVar(), "ppp");
+    $this->assertEquals($this->object->displayVar(), "pppp");
   }
 
 }
