@@ -47,7 +47,7 @@ class PokusTest extends PHPUnit_Framework_TestCase {
    * @todo Implement testJeSub().
    */
   public function testDisplayVar() {
-    $this->assertEquals($this->object->displayVar(), "ppppp");
+    $this->assertEquals($this->object->displayVar(), "pppp");
   }
 
 }
