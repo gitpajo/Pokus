@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/gitpajo/Pokus.png?label=ready&title=Ready)](https://waffle.io/gitpajo/Pokus)
 Pokus
 =====
 
