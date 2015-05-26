@@ -48,7 +48,7 @@ class PokusTest extends PHPUnit_Framework_TestCase {
    */
   public function testDisplayVar() {
     $this->assertEquals($this->object->displayVar(), "dlouhytestovacitext");
-    $this->assertEquals(20, strlen($this->object->displayVar()));
+    $this->assertEquals(19, strlen($this->object->displayVar()));
   }
 
 }
