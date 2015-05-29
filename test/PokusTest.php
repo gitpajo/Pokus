@@ -11,6 +11,10 @@ class Pokus
     public function displayVar() {
         return $this->var;
     }
+    
+    public function novinka(): array {
+        return [];
+    }    
 }
 
 
@@ -49,6 +53,10 @@ class PokusTest extends PHPUnit_Framework_TestCase {
   public function testDisplayVar() {
     $this->assertEquals($this->object->displayVar(), "dlouhytestovacitext");
     $this->assertEquals(19, strlen($this->object->displayVar()));
+  }
+
+  public function testNovinka() {
+    $this->assertEquals($this->object->novinka(), array());
   }
 
 }
