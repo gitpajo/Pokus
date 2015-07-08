@@ -11,7 +11,7 @@ class Pokus
     public function displayVar() {
         return $this->var;
     }
-    
+    //method with return type
     public function novinka(): array {
         return [];
     }    
